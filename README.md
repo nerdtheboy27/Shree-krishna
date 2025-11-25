@@ -2,7 +2,7 @@
 
 A visually immersive, high-performance web application dedicated to the life, teachings, and aesthetics of Lord Shree Krishna. This project blends modern "Digital Brutalist" design principles with deep spiritual iconography, creating a unique "Divine UI" experience.
 
-![Divine UI Preview](https://images.unsplash.com/photo-1582457601576-8051a6e927f8?q=80&w=1920&auto=format&fit=crop)
+![Divine UI Preview](https://media.discordapp.net/attachments/1038853022702374943/1442861131189321728/image.png?ex=6926f8a4&is=6925a724&hm=6c7ed6cc64d4a8acda207c2dd96eb7b69ad8891f0bf4fc52cba9e3ae1752ba97&=&format=webp&quality=lossless&width=1803&height=856)
 
 ## 🌟 Overview
 
@@ -82,10 +82,7 @@ The design follows a **"Dark Divine"** aesthetic:
 *   **Typography**: A mix of bold, high-impact serif fonts for grandeur and clean sans-serifs for readability.
 *   **Motion**: Everything reacts to user input (scroll, mouse move, hover) to create a living, breathing digital artifact.
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-*Made with Devotion & Code.* 🕉️
+*Made with Devotion & Code.* 
